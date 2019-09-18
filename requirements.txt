@@ -10,7 +10,7 @@ Keras==2.1.5
 kiwisolver==1.0.1
 Markdown==2.6.11
 matplotlib==2.2.2
-nltk==3.2.5
+nltk>=3.4.5
 numpy==1.14.2
 packaging==17.1
 pandas==0.22.0
@@ -27,9 +27,9 @@ seaborn==0.8.1
 six==1.11.0
 sklearn==0.0
 tensorboard==1.7.0
-tensorflow==1.7.0
+tensorflow>=1.12.1
 termcolor==1.1.0
 Theano==1.0.1
 webencodings==0.5.1
-Werkzeug==0.14.1
+Werkzeug>=0.15.3
 wordcloud==1.4.1
